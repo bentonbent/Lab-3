@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MobileLab3_SomeApp</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="signup">sign up</string>
+    <string name="home">home</string>
+
+
+    <string name="welcome">Welcome</string>
+    <string name="name">Name: </string>
+    <string name="email">Email: </string>
+    <string name="uni">University: </string>
+    <string name="logout">logout</string>
+
+    <string name="fName">First Name:</string>
+    <string name="lName">Last Name:</string>
+    <string name="newUser">Hello,</string>
+    <string name="confirm">confirm password</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
